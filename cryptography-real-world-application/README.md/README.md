@@ -36,22 +36,11 @@ The goal was to understand how cryptographic techniques ensure confidentiality, 
 
 Encrypted and decrypted a plaintext file using AES-256-CBC to demonstrate data confidentiality.
 
-## AES-256 Encryption
-
-![AES Encryption](Screenshots/aes-decryption.png)
-
-
-
 
 
 **Hashing (SHA-256)**
 
 Generated hash values before and after modifying a file to demonstrate integrity verification.
-
-## SHA-256 Hashing
-
-![Hash Comparison](Screenshots/modified-hash.png)
-
 
 
 
@@ -59,10 +48,6 @@ Generated hash values before and after modifying a file to demonstrate integrity
 
 Generated  public and private keys. The public key was used for encryption and the private key for decryption.
 
-
-## RSA Key Generation
-
-![RSA Key Generation](Screenshots/rsa-public-keygen2.png)
 
 
 
@@ -80,6 +65,7 @@ Generated  public and private keys. The public key was used for encryption and t
 **Full Documentation**
 
 **Detailed project documentation is available in the attached PDF report.**
+
 
 
 
