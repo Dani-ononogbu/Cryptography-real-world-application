@@ -56,7 +56,7 @@ Generated hash values before and after modifying a file to demonstrate integrity
 Generated  public and private keys. The public key was used for encryption and the private key for decryption.
 
 
-![RSA Keys](Screenshotsrsa-public-keygen 2.png)
+![RSA Keys](Screenshots/rsa-public-keygen2.png)
 
 
 
@@ -75,6 +75,7 @@ Generated  public and private keys. The public key was used for encryption and t
 **Full Documentation**
 
 **Detailed project documentation is available in the attached PDF report.**
+
 
 
 
